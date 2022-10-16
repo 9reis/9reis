@@ -1,6 +1,6 @@
 ### Olá!! Eu sou o Lucas Reis 
 
-- 🌱 Estudando Node, Mongo e React
+- 🌱 Estudando Java e React
 
 <div align="center">
   <a href="https://github.com/9reis">
