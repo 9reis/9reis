@@ -3,7 +3,7 @@
 - 🌱 LEARNING:
   - SpringBoot
   - Microservices
-  - React
+  - Angular
 
 <div align="center">
   <a href="https://github.com/9reis">
