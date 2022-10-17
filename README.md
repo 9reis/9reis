@@ -1,6 +1,6 @@
 ### Olá!! Eu sou o Lucas Reis 
 
-- 🌱 Learning :
+- 🌱 LEARNING:
   - SpringBoot
   - Microservices
   - React
