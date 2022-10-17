@@ -13,8 +13,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" align="center" alt="LucasCSS" height="40" width="50" /> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" align="center" alt="LucasBOOTSTRAP" height="50" width="60" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" alt="LucasJAVASCRIPT" height="40" width="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" align="center" alt="LucasJava" height="70" width="80" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" align="center" alt="LucasSpring" height="70" width="80" />
+    
 
 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" align="center" alt="LucasPHP" height="70" width="80" />
