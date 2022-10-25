@@ -22,10 +22,10 @@
 
 <ul align="left">
     <li>🤩️ Apaixonado por Tecnologia, Livros e Praia.</li>
-    <li>💻 Estudo no <a href="https://rodolfomori.com.br/devclub/" target="_blank">Dev Superior</a> e na <a href="https://open-bootcamp.com" target="_blank">Open BootCamp<a/>, mas já passei pela <a href="https://www.horadecodar.com.br/comunidade-hora-de-codar/" target="_blank">Hora de Codar</a>, e pelo <a href="https://programadorbr.com" target="_blank">ProgramadorBR</a>
+    <li>💻 Estudo na <a href="https://rodolfomori.com.br/devclub/" target="_blank">Dev Superior</a> e na <a href="https://open-bootcamp.com" target="_blank">Open BootCamp<a/>, mas já passei pela <a href="https://www.horadecodar.com.br/comunidade-hora-de-codar/" target="_blank">Hora de Codar</a> e pelo <a href="https://programadorbr.com" target="_blank">ProgramadorBR</a>
     <li>🔭 Para expandir cada vez mais minha Stack e meu portfólio, estou constantemente adquirindo novas habilidades e desenvolvendo projetos.</li>
-    <li>🔮 Estou me especializando em Front-end, mas tenho boas noções de Back-end, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
-    <li>🚀 Atualmente me aprofundando em: <b>ReactJS</b> e <b>Javascript</b>.</li>
+    <li>🔮 Estou me especializando em Back-End, mas tenho boas noções de Front-End, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
+      <li>🚀 Atualmente me aprofundando em: <b>Spring Boot </b>, <b>Microservice</b> e <b> React </b></li>
 </ul>
 <br>
 
