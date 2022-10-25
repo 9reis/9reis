@@ -31,9 +31,9 @@
 
 <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
 <img align="left" width="280px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
+
 <table align="right" height="279px">
   <tr>
-    
     <td align="center">
       <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="Javascript icon"/><br>
       <sub>
@@ -67,6 +67,7 @@
       </sub>
     </td>
   </tr>
+  
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=react" width="65px" alt="ReactJS icon"/><br>
@@ -86,11 +87,10 @@
       </sub>
     </td>
   </tr>
-  
-  <!-- ======================================================== -->
+ 
   <tr>
     
-   <!-- 
+ 
     <td align="center">
       <img src="https://user-images.githubusercontent.com/86276393/196552659-0e3000fc-aa8c-4d49-b14f-1d233f1d2b5e.png" width="65px" alt="Create React App icon"/><br>
       <sub>
@@ -99,7 +99,7 @@
         </b>
       </sub>
     </td>
-    -->
+   
     
     <td align="center">
       <img src="https://skillicons.dev/icons?i=express" width="65px" alt="ExpressJS icon"/><br>
@@ -111,6 +111,7 @@
     </td>
    
   </tr>
+  
   <tr>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/86276393/177148580-f21f8f32-113c-499c-8c4d-f03412137f82.svg" width="65px" alt="Insomnia icon"/><br>
@@ -138,7 +139,7 @@
 <img align="left" width="185px" src="./oh-ok.gif" alt="anime coding">
 <br><br>
      
-      <!-- CURRICULO -->
+ 
       
 <p align="center">
   <a href="https://export-download.canva.com/NskEY/DAFOAmNskEY/103/0-37189062837.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20221005%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221005T102753Z&X-Amz-Expires=26369&X-Amz-Signature=e9736a0c26ddc834157637bb3af1e3ffa4e1c9fc28f456d924dcc37c1843e300&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Lucas-Maciel-curr%25C3%25ADculo-frontend-v1.4.pdf&response-expires=Wed%2C%2005%20Oct%202022%2017%3A47%3A22%20GMT">
