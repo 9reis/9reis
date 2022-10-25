@@ -36,9 +36,9 @@
    <h3 align="center">🛠️ &ensp; <i>FRONT END </i></h3>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HMLT icon"/><br>
-          <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
-          <img src="https://skillicons.dev/icons?i=js" width="65px" alt="JAVA SCRIPT icon"/><br>
+          <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HMLT icon"/>
+          <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/>
+          <img src="https://skillicons.dev/icons?i=js" width="65px" alt="JAVA SCRIPT icon"/>
         </a>
       </p>
     <h3 align="center">🛠️ &ensp; <i>BACK END </i></h3>
