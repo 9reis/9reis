@@ -42,12 +42,13 @@
     <h3 align="center">🛠️ &ensp; <i>BACK END </i></h3>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=java,spring,php" width="200px" />
+          <img src="https://skillicons.dev/icons?i=java,spring,php,nodejs" />
         </a>
       </p>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nodejs" width="200px" />
+          <img src="https://skillicons.dev/icons?i=nodejs" width="65px" />
+          <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
         </a>
       </p>
     <h3 align="center">🛠️ &ensp; <i>DATA BASE</i></h3>
