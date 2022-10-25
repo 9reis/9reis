@@ -35,7 +35,7 @@
    <h3 align="center">🛠️ &ensp; <i>FRONT END </i></h3>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,js"width="200px"/>
+          <img src="https://skillicons.dev/icons?i=html,css,js"/>
         </a>
       </p>
     <h3 align="center">🛠️ &ensp; <i>BACK END </i></h3>
@@ -47,7 +47,7 @@
     <h3 align="center">🛠️ &ensp; <i>DATA BASE</i></h3>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"width="200px"/>
+          <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
         </a>
       </p>
      </div>
@@ -76,16 +76,12 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WHATSAPP">
   </a>
   <img src="https://user-images.githubusercontent.com/86276393/177438405-e828976c-3773-4b4e-a3f3-dc888c759003.png" alt="DISCORD">
-</p>
-   
- <iframe src="https://discord.com/widget?id=1034507314624999525&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-      
+</p> 
 <br><br><br>
 
 <h1 align="center">🗃️ &ensp; <i>Ｐｒｏｊｅｔｏｓ</i></h1>
 
 <table height="495px">
-  
   <tr>
     <td>
     <a href="https://github.com/Luk4x/user-register-API" target="_blank">
