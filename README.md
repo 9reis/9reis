@@ -60,24 +60,82 @@
       </td>
    </tr>
   </table 
-        </a>
-      </p>
+    
     <h3 align="center">🛠️ &ensp; <i>BACK END </i></h3>
-      <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=java" width="70px" alt="JAVA icon" />
-          <img src="https://skillicons.dev/icons?i=spring" width="70px" alt="SPRING icon" />
-          <img src="https://skillicons.dev/icons?i=php" width="70px" alt="PHP icon" />
-          <img src="https://skillicons.dev/icons?i=nodejs" width="70px" alt="NODEJS icon" />
-        </a>
-      </p>
+    <table align="center">
+      <tr>
+        <td align="center">
+        <img src="https://skillicons.dev/icons?i=java" width="70px" alt="JAVA icon" />
+        <sub>
+          <b>
+            <pre> JAVA </pre>
+          </b>
+        </sub>
+      </td>
+        
+        <td align="center">
+        <img src="https://skillicons.dev/icons?i=spring" width="70px" alt="SPRING icon" />
+        <sub>
+          <b>
+            <pre> SPRING </pre>
+          </b>
+        </sub>
+      </td>
+        
+        <td align="center">
+        <img src="https://skillicons.dev/icons?i=php" width="70px" alt="PHP icon" />
+        <sub>
+          <b>
+            <pre> PHP </pre>
+          </b>
+        </sub>
+      </td>
+        
+        <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="70px" alt="NODEJS icon" />
+        <sub>
+          <b>
+            <pre> NODE </pre>
+          </b>
+        </sub>
+      </td>
+      </tr>
+      
+    </table>
+ 
     <h3 align="center">🛠️ &ensp; <i>DATA BASE</i></h3>
-      <p align="center">
-          <img src="https://skillicons.dev/icons?i=mysql" width="70px" alt="MYSQL icon" />
-          <img src="https://skillicons.dev/icons?i=mongodb" width="70px" alt="MONGODB icon" />
-          <img src="https://skillicons.dev/icons?i=postgres" width="70px" alt="POSTGRESS icon" />
-        </a>
-      </p>
+    <table align="center">
+      <tr>
+        <td align="center">
+        <img src="https://skillicons.dev/icons?i=mysql" width="70px" alt="MYSQL icon" />
+        <sub>
+          <b>
+            <pre> MySQL </pre>
+          </b>
+        </sub>
+      </td>
+        
+        <td align="center">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="70px" alt="MONGODB icon" />
+        <sub>
+          <b>
+            <pre> MONGO </pre>
+          </b>
+        </sub>
+      </td>
+        
+        <td align="center">
+        <img src="https://skillicons.dev/icons?i=postgres" width="70px" alt="POSTGRESS icon" />
+        <sub>
+          <b>
+            <pre> POSTGRESS </pre>
+          </b>
+        </sub>
+      </td>
+      </tr>
+      
+    </table>
+
 <br><br>
       
    <div align="center">
