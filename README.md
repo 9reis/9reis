@@ -30,11 +30,7 @@
 <br>
 
 <h1 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h1>
-<div align="left" >      
-  <img align="left" width="280px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
-</div>   
 
-<div align="right">
    <h3 align="center">🛠️ &ensp; <i>FRONT END </i></h3>
       <p align="center">
         <a href="https://skillicons.dev">
@@ -60,8 +56,12 @@
           <img src="https://skillicons.dev/icons?i=postgres" width="65px" alt="POSTGRESS icon" />
         </a>
       </p>
-  </div>
+     
 <br><br><br><br><br><br>
+   
+  <img align="center" width="280px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>   
+
+  <br><br><br>
 
 <h1 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h1>
 <br><br>
