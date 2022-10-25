@@ -122,6 +122,17 @@
     </td>
   </tr>
 </table>
+      
+      <h2> DATA BASE </h2>
+    <div>
+      <p align="center">
+        <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+        </a>
+      </p>
+   
+    </div>
+      
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h2>
