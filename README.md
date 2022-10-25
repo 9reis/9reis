@@ -30,8 +30,9 @@
 <br>
 
 <h1 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h1>
+<div align="center">     
 <img align="left" width="280px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
-   <div>  
+    
    <h3 align="center">🛠️ &ensp; <i>FRONT END </i></h3>
       <p align="center">
         <a href="https://skillicons.dev">
@@ -51,7 +52,7 @@
         </a>
       </p>
      </div>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <h1 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h1>
 <br><br>
