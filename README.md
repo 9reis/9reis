@@ -34,7 +34,7 @@
 <img align="left" width="280px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
     
    <h3 align="center">🛠️ &ensp; <i>FRONT END </i></h3>
-      <p align="center">
+      <p align="left">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HMLT icon"/>
           <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/>
@@ -42,21 +42,21 @@
         </a>
       </p>
     <h3 align="center">🛠️ &ensp; <i>BACK END </i></h3>
-      <p align="center">
+      <p align="left">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=java,spring,php,nodejs" />
+          <img src="https://skillicons.dev/icons?i=java" width="65px" alt="JAVA icon" />
+          <img src="https://skillicons.dev/icons?i=spring" width="65px" alt="SPRING icon" />
+          <img src="https://skillicons.dev/icons?i=php" width="65px" alt="PHP icon" />
+          <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NODEJS icon" />
         </a>
       </p>
-      <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nodejs" width="65px" />
-          <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
-        </a>
-      </p>
+    
     <h3 align="center">🛠️ &ensp; <i>DATA BASE</i></h3>
-      <p align="center">
+      <p align="left">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" width="200px" />
+          <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MYSQL icon" />
+          <img src="https://skillicons.dev/icons?i=mongodb" width="65px" alt="MONGODB icon" />
+          <img src="https://skillicons.dev/icons?i=postgres" width="65px" alt="POSTGRESS icon" />
         </a>
       </p>
      </div>
@@ -80,7 +80,10 @@
   <a href="https://wa.me/5571988078287" alt="WhatsApp" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WHATSAPP">
   </a>
-  <img src="https://user-images.githubusercontent.com/86276393/177438405-e828976c-3773-4b4e-a3f3-dc888c759003.png" alt="DISCORD">
+  
+  <a href="https://t.me/ReisLucas9" alt="Telegram" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram">
+  </a>
 </p> 
 <br><br><br>
 
