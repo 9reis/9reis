@@ -1,9 +1,9 @@
 
-
+<div align="center">
 
 ![00](https://user-images.githubusercontent.com/106397008/197808990-e1ae92ce-afbb-4a5c-907d-0ad0ba0b83d1.jpg)
 
-
+</div>
 
 <h2 align="center">📇 &ensp; <i>Ｓｏｂｒｅ</i></h2>
 <img align="right" src="./analysis.gif" width="370px" alt="anime chilling">
