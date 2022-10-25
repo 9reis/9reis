@@ -34,30 +34,29 @@
    <h3 align="center">🛠️ &ensp; <i>FRONT END </i></h3>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HMLT icon"/>
-          <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/>
-          <img src="https://skillicons.dev/icons?i=js" width="65px" alt="JAVA SCRIPT icon"/>
+          <img src="https://skillicons.dev/icons?i=html" width="70px" alt="HMLT icon"/>
+          <img src="https://skillicons.dev/icons?i=css" width="70px" alt="CSS3 icon"/>
+          <img src="https://skillicons.dev/icons?i=js" width="70px" alt="JAVA SCRIPT icon"/>
         </a>
       </p>
     <h3 align="center">🛠️ &ensp; <i>BACK END </i></h3>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=java" width="65px" alt="JAVA icon" />
-          <img src="https://skillicons.dev/icons?i=spring" width="65px" alt="SPRING icon" />
-          <img src="https://skillicons.dev/icons?i=php" width="65px" alt="PHP icon" />
-          <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NODEJS icon" />
+          <img src="https://skillicons.dev/icons?i=java" width="70px" alt="JAVA icon" />
+          <img src="https://skillicons.dev/icons?i=spring" width="70px" alt="SPRING icon" />
+          <img src="https://skillicons.dev/icons?i=php" width="70px" alt="PHP icon" />
+          <img src="https://skillicons.dev/icons?i=nodejs" width="70px" alt="NODEJS icon" />
         </a>
       </p>
     <h3 align="center">🛠️ &ensp; <i>DATA BASE</i></h3>
-      <p align="right">
+      <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MYSQL icon" />
-          <img src="https://skillicons.dev/icons?i=mongodb" width="65px" alt="MONGODB icon" />
-          <img src="https://skillicons.dev/icons?i=postgres" width="65px" alt="POSTGRESS icon" />
+          <img src="https://skillicons.dev/icons?i=mysql" width="70px" alt="MYSQL icon" />
+          <img src="https://skillicons.dev/icons?i=mongodb" width="70px" alt="MONGODB icon" />
+          <img src="https://skillicons.dev/icons?i=postgres" width="70px" alt="POSTGRESS icon" />
         </a>
       </p>
-     
-<br><br><br><br><br><br>
+<br><br>
    
   <img align="center" width="280px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>   
 
