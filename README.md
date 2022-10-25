@@ -36,19 +36,19 @@
    <h3 align="center">🛠️ &ensp; <i>FRONT END </i></h3>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,js"/>
+          <img src="https://skillicons.dev/icons?i=html,css,js" width="65px" />
         </a>
       </p>
     <h3 align="center">🛠️ &ensp; <i>BACK END </i></h3>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=java,spring,php,nodejs"/>
+          <img src="https://skillicons.dev/icons?i=java,spring,php,nodejs" width="65px" />
         </a>
       </p>
     <h3 align="center">🛠️ &ensp; <i>DATA BASE</i></h3>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
+          <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" width="65px" />
         </a>
       </p>
      </div>
@@ -67,10 +67,6 @@
 
   <a href="https://www.linkedin.com/in/lucas-reis-b67558162/" alt="Linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN">
-  </a>
-  
-  <a href="https://t.me/lu_k4x" alt="Telegram" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="TELEGRAM">
   </a>
   
   <a href="https://wa.me/5571988078287" alt="WhatsApp" target="_blank">
