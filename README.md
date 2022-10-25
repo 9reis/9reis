@@ -50,7 +50,7 @@
         </b>
       </sub>
     </td>
-        <td align="center">
+      <td align="center">
       <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
       <sub>
         <b>
@@ -67,7 +67,6 @@
       </sub>
     </td>
   </tr>
-  
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=react" width="65px" alt="ReactJS icon"/><br>
@@ -77,7 +76,6 @@
         </b>
       </sub>
     </td>
-   
     <td align="center">
       <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJS icon"/><br>
       <sub>
@@ -87,10 +85,7 @@
       </sub>
     </td>
   </tr>
- 
   <tr>
-    
- 
     <td align="center">
       <img src="https://user-images.githubusercontent.com/86276393/196552659-0e3000fc-aa8c-4d49-b14f-1d233f1d2b5e.png" width="65px" alt="Create React App icon"/><br>
       <sub>
@@ -99,8 +94,6 @@
         </b>
       </sub>
     </td>
-   
-    
     <td align="center">
       <img src="https://skillicons.dev/icons?i=express" width="65px" alt="ExpressJS icon"/><br>
       <sub>
@@ -109,9 +102,7 @@
         </b>
       </sub>
     </td>
-   
   </tr>
-  
   <tr>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/86276393/177148580-f21f8f32-113c-499c-8c4d-f03412137f82.svg" width="65px" alt="Insomnia icon"/><br>
@@ -129,8 +120,6 @@
         </b>
       </sub>
     </td>
-   
-    </td>
   </tr>
 </table>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -146,38 +135,27 @@
     <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume">
   </a>
   
-  <!-- GMAIL -->
-  
   <a href="mailto:luk4xm4ci3l@gmail.com" alt="Gmail" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL">
   </a>
-  
-  <!-- LINKEDIN -->
-  
+
   <a href="https://www.linkedin.com/in/lucasmacielf/" alt="Linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN">
   </a>
-  
-  <!-- TELEGRAM -->
   
   <a href="https://t.me/lu_k4x" alt="Telegram" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="TELEGRAM">
   </a>
-  
-  <!-- WPP -->
   
   <a href="https://wa.me/5522996112570?text=Yo,%20sinta-se%20livre%20para%20entrar%20em%20contato%20comigo." alt="WhatsApp" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WHATSAPP">
   </a>
-  
-  <!-- INSTA -->
   
   <a href="https://www.instagram.com/lu_k4x/" alt="Instagram" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="INSTAGRAM">
   </a>
  
-  <!-- DISCORD -->
-  <img src="https://user-images.githubusercontent.com/86276393/177438405-e828976c-3773-4b4e-a3f3-dc888c759003.png" alt="discord">
+  <img src="https://user-images.githubusercontent.com/86276393/177438405-e828976c-3773-4b4e-a3f3-dc888c759003.png" alt="DISCORD">
 </p>
 <br><br><br>
 
