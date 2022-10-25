@@ -50,7 +50,6 @@
           <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NODEJS icon" />
         </a>
       </p>
-    
     <h3 align="center">🛠️ &ensp; <i>DATA BASE</i></h3>
       <p align="center">
         <a href="https://skillicons.dev">
