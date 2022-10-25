@@ -36,24 +36,24 @@
    <h3 align="center">🛠️ &ensp; <i>FRONT END </i></h3>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,js" width="250px" />
+          <img src="https://skillicons.dev/icons?i=html,css,js" width="200px" />
         </a>
       </p>
     <h3 align="center">🛠️ &ensp; <i>BACK END </i></h3>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=java,spring,php,nodejs" width="250px" />
+          <img src="https://skillicons.dev/icons?i=java,spring,php" width="200px" />
         </a>
       </p>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nodejs" width="250px" />
+          <img src="https://skillicons.dev/icons?i=nodejs" width="200px" />
         </a>
       </p>
     <h3 align="center">🛠️ &ensp; <i>DATA BASE</i></h3>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" width="250px" />
+          <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" width="200px" />
         </a>
       </p>
      </div>
