@@ -57,9 +57,11 @@
         </a>
       </p>
 <br><br>
-   
+      
+   <div align="center">
   <img align="center" width="280px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>   
-
+  <div>
+    
   <br><br><br>
 
 <h1 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h1>
