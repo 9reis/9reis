@@ -47,7 +47,7 @@
     <h3 align="center">🛠️ &ensp; <i>DATA BASE</i></h3>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"width="200px" />
+          <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"width="200px"/>
         </a>
       </p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
