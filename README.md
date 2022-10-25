@@ -31,7 +31,7 @@
 
 <h1 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h1>
 <img align="left" width="280px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
-      
+   <div>  
    <h3 align="center">🛠️ &ensp; <i>FRONT END </i></h3>
       <p align="center">
         <a href="https://skillicons.dev">
@@ -41,7 +41,7 @@
     <h3 align="center">🛠️ &ensp; <i>BACK END </i></h3>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=java,spring,php,nodejs"width="200px"/>
+          <img src="https://skillicons.dev/icons?i=java,spring,php,nodejs"/>
         </a>
       </p>
     <h3 align="center">🛠️ &ensp; <i>DATA BASE</i></h3>
@@ -50,6 +50,7 @@
           <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"width="200px"/>
         </a>
       </p>
+     </div>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h1 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h1>
@@ -59,11 +60,11 @@
     <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume">
   </a>
   
-  <a href="mailto:luk4xm4ci3l@gmail.com" alt="Gmail" target="_blank">
+  <a href="mailto:lucasreis_cod@hotmail.com" alt="Gmail" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL">
   </a>
 
-  <a href="https://www.linkedin.com/in/lucasmacielf/" alt="Linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-reis-b67558162/" alt="Linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN">
   </a>
   
@@ -71,16 +72,14 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="TELEGRAM">
   </a>
   
-  <a href="https://wa.me/5522996112570?text=Yo,%20sinta-se%20livre%20para%20entrar%20em%20contato%20comigo." alt="WhatsApp" target="_blank">
+  <a href="https://wa.me/5571988078287" alt="WhatsApp" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WHATSAPP">
   </a>
-  
-  <a href="https://www.instagram.com/lu_k4x/" alt="Instagram" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="INSTAGRAM">
-  </a>
- 
   <img src="https://user-images.githubusercontent.com/86276393/177438405-e828976c-3773-4b4e-a3f3-dc888c759003.png" alt="DISCORD">
 </p>
+   
+ <iframe src="https://discord.com/widget?id=1034507314624999525&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+      
 <br><br><br>
 
 <h1 align="center">🗃️ &ensp; <i>Ｐｒｏｊｅｔｏｓ</i></h1>
