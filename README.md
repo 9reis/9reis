@@ -52,6 +52,11 @@
       <p align="center">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=mysql" width="70px" alt="MYSQL icon" />
+        <sub>
+          <b>
+            <pre>MySQL</pre>
+          </b>
+        </sub>
           <img src="https://skillicons.dev/icons?i=mongodb" width="70px" alt="MONGODB icon" />
           <img src="https://skillicons.dev/icons?i=postgres" width="70px" alt="POSTGRESS icon" />
         </a>
