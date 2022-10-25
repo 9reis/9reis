@@ -53,7 +53,7 @@
         </a>
       </p>
     <h3 align="center">🛠️ &ensp; <i>DATA BASE</i></h3>
-      <p align="center">
+      <p align="right">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MYSQL icon" />
           <img src="https://skillicons.dev/icons?i=mongodb" width="65px" alt="MONGODB icon" />
