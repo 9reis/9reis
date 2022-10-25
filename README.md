@@ -41,21 +41,19 @@
     <img src="https://skillicons.dev/icons?i=html,css,js" />
   </a>
 </p>
+    <h2 align="center">🛠️ &ensp; <i>BACK END </i></h2>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=java,spring,php,nodejs" />
+        </a>
+      </p>
       
-      <h2 align="center">🛠️ &ensp; <i>BACK END </i></h2>
+    <h2 align="center">🛠️ &ensp; <i>DATA BASE</i></h2>
       <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,php,nodejs" />
-  </a>
-</p>
-
-   
-      <h2 align="center">🛠️ &ensp; <i>DATA BASE</i></h2>
-      <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql, mongodb, postgres " />
-  </a>
-</p>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=mysql, mongodb, postgres " />
+        </a>
+      </p>
       
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
