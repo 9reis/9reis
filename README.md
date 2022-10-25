@@ -30,13 +30,36 @@
 <br>
 
 <h1 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h1>
-
-   <h3 align="center">🛠️ &ensp; <i>FRONT END </i></h3>
-      <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html" width="70px" alt="HMLT icon"/>
-          <img src="https://skillicons.dev/icons?i=css" width="70px" alt="CSS3 icon"/>
-          <img src="https://skillicons.dev/icons?i=js" width="70px" alt="JAVA SCRIPT icon"/>
+      
+  <h3 align="center">🛠️ &ensp; <i>FRONT END </i></h3>
+  <table align="center" height="279px">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="70px" alt="HMLT icon"/>
+        <sub>
+          <b>
+            <pre>HTML</pre>
+          </b>
+        </sub>
+      </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="70px" alt="CSS3 icon"/>
+        <sub>
+          <b>
+            <pre>CSS3</pre>
+          </b>
+        </sub>
+      </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" width="70px" alt="JAVA SCRIPT icon"/>
+        <sub>
+          <b>
+            <pre>JAVA SCRIPT </pre>
+          </b>
+        </sub>
+      </td>
+   </tr>
+  </table 
         </a>
       </p>
     <h3 align="center">🛠️ &ensp; <i>BACK END </i></h3>
@@ -51,13 +74,6 @@
     <h3 align="center">🛠️ &ensp; <i>DATA BASE</i></h3>
       <p align="center">
           <img src="https://skillicons.dev/icons?i=mysql" width="70px" alt="MYSQL icon" />
-        <sub>
-          <b>
-            <pre>MySQL</pre>
-          </b>
-        </sub>
-      </p>
-      <p align="center">
           <img src="https://skillicons.dev/icons?i=mongodb" width="70px" alt="MONGODB icon" />
           <img src="https://skillicons.dev/icons?i=postgres" width="70px" alt="POSTGRESS icon" />
         </a>
