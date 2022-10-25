@@ -45,6 +45,11 @@
           <img src="https://skillicons.dev/icons?i=java,spring,php,nodejs" width="250px" />
         </a>
       </p>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=nodejs" width="250px" />
+        </a>
+      </p>
     <h3 align="center">🛠️ &ensp; <i>DATA BASE</i></h3>
       <p align="center">
         <a href="https://skillicons.dev">
