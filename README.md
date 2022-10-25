@@ -30,11 +30,11 @@
 <br>
 
 <h1 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h1>
-<div align="center">     
+      
 <img align="left" width="280px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
     
    <h3 align="center">🛠️ &ensp; <i>FRONT END </i></h3>
-      <p align="left">
+      <p align="center">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HMLT icon"/>
           <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/>
@@ -42,7 +42,7 @@
         </a>
       </p>
     <h3 align="center">🛠️ &ensp; <i>BACK END </i></h3>
-      <p align="left">
+      <p align="center">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=java" width="65px" alt="JAVA icon" />
           <img src="https://skillicons.dev/icons?i=spring" width="65px" alt="SPRING icon" />
@@ -52,14 +52,13 @@
       </p>
     
     <h3 align="center">🛠️ &ensp; <i>DATA BASE</i></h3>
-      <p align="left">
+      <p align="center">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MYSQL icon" />
           <img src="https://skillicons.dev/icons?i=mongodb" width="65px" alt="MONGODB icon" />
           <img src="https://skillicons.dev/icons?i=postgres" width="65px" alt="POSTGRESS icon" />
         </a>
       </p>
-     </div>
 <br><br><br><br><br><br>
 
 <h1 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h1>
