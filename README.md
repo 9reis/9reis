@@ -14,7 +14,7 @@
       </b>
     </td>
     <td>
-      <a href="readme-en.md"> <b> 🇪🇸 Español </b></a>
+      <a href="readme-es.md"> 🇪🇸 Español</a>
     </td>
   </tr>
 </table>
