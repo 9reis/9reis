@@ -60,9 +60,9 @@
       </td>
    </tr>
   </table 
-    
-    <h3 align="center">🛠️ &ensp; <i>BACK END </i></h3>
-    <table align="center">
+   
+   <h3 align="center">🛠️ &ensp; <i>BACK END </i></h3>
+    <table align="center" height="279px">
       <tr>
         <td align="center">
         <img src="https://skillicons.dev/icons?i=java" width="70px" alt="JAVA icon" />
@@ -100,11 +100,10 @@
         </sub>
       </td>
       </tr>
-      
-    </table>
- 
+      </table>
+  
     <h3 align="center">🛠️ &ensp; <i>DATA BASE</i></h3>
-    <table align="center">
+    <table align="center" height="279px">
       <tr>
         <td align="center">
         <img src="https://skillicons.dev/icons?i=mysql" width="70px" alt="MYSQL icon" />
@@ -133,7 +132,6 @@
         </sub>
       </td>
       </tr>
-      
     </table>
 
 <br><br>
