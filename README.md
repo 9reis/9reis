@@ -57,25 +57,25 @@
     <table align="center">
       <tr>
         <td align="center">
-        <img src="https://skillicons.dev/icons?i=java" width="70px" alt="JAVA icon" />
+        <img src="https://skillicons.dev/icons?i=java" width="80px" alt="JAVA icon" />
         <sub>
             <pre> JAVA </pre>
         </sub>
       </td>
         <td align="center">
-        <img src="https://skillicons.dev/icons?i=spring" width="70px" alt="SPRING icon" />
+        <img src="https://skillicons.dev/icons?i=spring" width="80px" alt="SPRING icon" />
         <sub>
             <pre> SPRING </pre>
         </sub>
       </td>
         <td align="center">
-        <img src="https://skillicons.dev/icons?i=php" width="70px" alt="PHP icon" />
+        <img src="https://skillicons.dev/icons?i=php" width="80px" alt="PHP icon" />
         <sub>
             <pre> PHP </pre>
         </sub>
       </td>
         <td align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="70px" alt="NODEJS icon" />
+        <img src="https://skillicons.dev/icons?i=nodejs" width="80px" alt="NODEJS icon" />
         <sub>
             <pre> NODE </pre>
         </sub>
@@ -86,19 +86,19 @@
     <table align="center" >
       <tr>
         <td align="center">
-        <img src="https://skillicons.dev/icons?i=mysql" width="70px" alt="MYSQL icon" />
+        <img src="https://skillicons.dev/icons?i=mysql" width="80px" alt="MYSQL icon" />
         <sub>
             <pre> MySQL </pre>
         </sub>
       </td>
         <td align="center">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="70px" alt="MONGODB icon" />
+        <img src="https://skillicons.dev/icons?i=mongodb" width="80px" alt="MONGODB icon" />
         <sub>
             <pre> MONGO </pre>
         </sub>
       </td>
         <td align="center">
-        <img src="https://skillicons.dev/icons?i=postgres" width="70px" alt="POSTGRESS icon" />
+        <img src="https://skillicons.dev/icons?i=postgres" width="80px" alt="POSTGRESS icon" />
         <sub>
             <pre> POSTGRESS </pre>
         </sub>
@@ -133,14 +133,14 @@
 <br><br>
 <img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9reis&langs_count=8&theme=tokyonight&hide_border=true">
 <div align="right">
-<img height="203px" src="https://github-readme-stats.vercel.app/api?username=9reis&show_icons=true&custom_title=Luk4x's%20Github%20Stats&theme=tokyonight&hide_border=true">
+<img height="203px" src="https://github-readme-stats.vercel.app/api?username=9reis&show_icons=true&custom_title=9Reis%20Github%20Stats&theme=tokyonight&hide_border=true">
 <img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=9reis&theme=tokyonight&hide_border=true">
 </div>
 </details>
 <br><br><br>
   
   <h1 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h1>
-  <br><br>
+  <br>
 <p align="center">
   <a href="https://export-download.canva.com/NskEY/DAFOAmNskEY/103/0-37189062837.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20221005%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221005T102753Z&X-Amz-Expires=26369&X-Amz-Signature=e9736a0c26ddc834157637bb3af1e3ffa4e1c9fc28f456d924dcc37c1843e300&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Lucas-Maciel-curr%25C3%25ADculo-frontend-v1.4.pdf&response-expires=Wed%2C%2005%20Oct%202022%2017%3A47%3A22%20GMT">
     <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume">
