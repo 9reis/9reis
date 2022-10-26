@@ -9,9 +9,7 @@
 <table align="center">
   <tr>
     <td>
-      <b>
         <a href="README.md"> 🇧🇷 Português</a>
-      </b>
     </td>
     <td>
       <a href="readme-en.md"> <b> 🇪🇸 Español </b></a>
