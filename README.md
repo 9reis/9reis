@@ -114,16 +114,16 @@
   <br><br><br>
     
 <h1 align="center">🗃️ &ensp; <i>Ｐｒｏｊｅｔｏｓ</i></h1>
-<table height="200px">
-  <tr>
-    <td>
-    <a href="https://github.com/9reis/user-register-API" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=user-register-API&theme=tokyonight&hide_border=true">
-    </a>
-    </td>
-  </tr>
-</table>
-<br>
+    <br><br>
+    <div align="center">
+      <a href="https://github.com/9reis/Rest-API" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=rest-api&theme=aura_dark&hide_border=true">
+      </a>
+      <a href="https://github.com/9reis/Rest-API" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=rest-api&theme=aura_dark&hide_border=true">
+      </a>
+  </div>
+<br><br><br><br>
 
 <h2 align="center">
 <details open>
