@@ -1,0 +1,166 @@
+
+<div align="center">
+
+![00](https://user-images.githubusercontent.com/106397008/197808990-e1ae92ce-afbb-4a5c-907d-0ad0ba0b83d1.jpg)
+
+</div>
+
+<h1 align="center">📇 &ensp; <i>S O B R E</i></h1>
+<table align="center">
+  <tr>
+    <td>
+      <b>
+        <a href="README.md"> 🇧🇷 Português</a>
+      </b>
+    </td>
+    <td>
+      <a href="readme-en.md"> <b> 🇪🇸 Español </b></a>
+    </td>
+  </tr>
+</table>
+
+<ul align="left">
+    <li>🤩️ Apasionado por la Tecnología, los Libros y la Playa.</li>
+    <li>💻 Estudio en <a href="https://rodolfomori.com.br/devclub/" target="_blank">Dev Superior</a> y en <a href="https://open-bootcamp.com" target="_blank">Open BootCamp<a/>, pero he pasado <a href="https://www.horadecodar.com.br/comunidade-hora-de-codar/" target="_blank">Hora de Codar</a> y por el <a href="https://programadorbr.com" target="_blank">ProgramadorBR</a>
+    <li>🔭 Para ampliar aún más mi Stack y portafolio, estoy constantemente adquiriendo nuevas habilidades y desarrollando proyectos..</li>
+    <li>🔮 Estoy especializandome en Back-End, pero tengo conocimiento de Front-End, pues mi objetivo a plazo es ser Full-Stack.</li>
+    <li>🚀 Actualmente profundizando en: <b>Spring Boot</b>, <b>Microservice</b> e <b> React </b></li>
+</ul>
+<br>
+
+<h1 align="center">🛠️ &ensp; <i>T E C N O L O G Í A S</i></h1>
+  <div align="center">    
+  <h3 align="center"> &ensp; <i>FRONT END</i></h3>
+  <table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="70px" alt="HMLT icon"/>
+        <sub>
+            <pre>HTML</pre>
+        </sub>
+      </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="70px" alt="CSS3 icon"/>
+        <sub>
+            <pre>CSS3</pre>
+        </sub>
+      </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" width="70px" alt="JAVA SCRIPT icon"/>
+        <sub>
+            <pre>JAVA SCRIPT </pre>
+        </sub>
+      </td>
+   </tr>
+    </table>
+    <h3 align="center"> &ensp; <i>BACK END</i></h3>
+    <table align="center">
+      <tr>
+        <td align="center">
+        <img src="https://skillicons.dev/icons?i=java" width="80px" alt="JAVA icon" />
+        <sub>
+            <pre> JAVA </pre>
+        </sub>
+      </td>
+        <td align="center">
+        <img src="https://skillicons.dev/icons?i=spring" width="80px" alt="SPRING icon" />
+        <sub>
+            <pre> SPRING </pre>
+        </sub>
+      </td>
+        <td align="center">
+        <img src="https://skillicons.dev/icons?i=php" width="80px" alt="PHP icon" />
+        <sub>
+            <pre> PHP </pre>
+        </sub>
+      </td>
+        <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="80px" alt="NODEJS icon" />
+        <sub>
+            <pre> NODE </pre>
+        </sub>
+      </td>
+      </tr>
+      </table>
+    <h3 align="center"> &ensp; <i>DATA BASE</i></h3>
+    <table align="center" >
+      <tr>
+        <td align="center">
+        <img src="https://skillicons.dev/icons?i=mysql" width="80px" alt="MYSQL icon" />
+        <sub>
+            <pre> MySQL </pre>
+        </sub>
+      </td>
+        <td align="center">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="80px" alt="MONGODB icon" />
+        <sub>
+            <pre> MONGO </pre>
+        </sub>
+      </td>
+        <td align="center">
+        <img src="https://skillicons.dev/icons?i=postgres" width="80px" alt="POSTGRESS icon" />
+        <sub>
+            <pre> POSTGRESS </pre>
+        </sub>
+      </td>
+      </tr>
+    </table>
+      </div>
+<br><br>
+      
+  <div align="center">
+    <img align="center" width="280px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>   
+  <div>
+  <br><br><br>
+    
+<h1 align="center">🗃️ &ensp; <i>P R O Y E C T O S</i></h1>
+    <br><br>
+    <div align="center">
+      <a href="https://github.com/9reis/Rest-API" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=rest-api&theme=aura_dark&hide_border=true">
+      </a>
+      <a href="https://github.com/9reis/Rest-API" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=rest-api&theme=aura_dark&hide_border=true">
+      </a>
+  </div>
+<br><br><br><br>
+
+<h2 align="center">
+<details open>
+<summary>📈 &ensp; <i>A C T I V I D A D E S</i></summary>
+<br>
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=9reis&theme=tokyo-night&hide_border=true">
+<br><br>
+<img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9reis&langs_count=8&theme=tokyonight&hide_border=true">
+<div align="right">
+<img height="203px" src="https://github-readme-stats.vercel.app/api?username=9reis&show_icons=true&custom_title=9Reis%20Github%20Stats&theme=tokyonight&hide_border=true">
+<img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=9reis&theme=tokyonight&hide_border=true">
+</div>
+</details>
+<br><br><br>
+  
+  <h1 align="center">📩 &ensp; <i>C O N T A C T O</i></h1>
+  <br>
+<p align="center">
+  <a href="https://export-download.canva.com/NskEY/DAFOAmNskEY/103/0-37189062837.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20221005%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221005T102753Z&X-Amz-Expires=26369&X-Amz-Signature=e9736a0c26ddc834157637bb3af1e3ffa4e1c9fc28f456d924dcc37c1843e300&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Lucas-Maciel-curr%25C3%25ADculo-frontend-v1.4.pdf&response-expires=Wed%2C%2005%20Oct%202022%2017%3A47%3A22%20GMT">
+    <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume">
+  </a>
+  
+  <a href="mailto:lucasreis_cod@hotmail.com" alt="Gmail" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL">
+  </a>
+
+  <a href="https://www.linkedin.com/in/lucas-reis-b67558162/" alt="Linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN">
+  </a>
+  
+  <a href="https://wa.me/5571988078287" alt="WhatsApp" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WHATSAPP">
+  </a>
+  
+  <a href="https://t.me/ReisLucas9" alt="Telegram" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram">
+  </a>
+</p> 
+<br><br>
+
