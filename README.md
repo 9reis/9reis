@@ -6,16 +6,15 @@
 </div>
 
 <h1 align="center">📇 &ensp; <i>Ｓｏｂｒｅ</i></h1>
-<img align="right" src="./analysis.gif" width="370px" alt="anime chilling">
 <table align="center">
   <tr>
     <td>
       <b>
-        <a href="README.md">🇧🇷 Português</a>
+        <a href="README.md"> <b> 🇧🇷 Português </b></a>
       </b>
     </td>
     <td>
-      <a href="readme-en.md">🇺🇸 English</a>
+      <a href="readme-en.md"> <b> 🇪🇸 Español </b></a>
     </td>
   </tr>
 </table>
@@ -25,125 +24,123 @@
     <li>💻 Estudo na <a href="https://rodolfomori.com.br/devclub/" target="_blank">Dev Superior</a> e na <a href="https://open-bootcamp.com" target="_blank">Open BootCamp<a/>, mas já passei pela <a href="https://www.horadecodar.com.br/comunidade-hora-de-codar/" target="_blank">Hora de Codar</a> e pelo <a href="https://programadorbr.com" target="_blank">ProgramadorBR</a>
     <li>🔭 Para expandir cada vez mais minha Stack e meu portfólio, estou constantemente adquirindo novas habilidades e desenvolvendo projetos.</li>
     <li>🔮 Estou me especializando em Back-End, mas tenho boas noções de Front-End, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
-      <li>🚀 Atualmente me aprofundando em: <b>Spring Boot </b>, <b>Microservice</b> e <b> React </b></li>
+    <li>🚀 Atualmente me aprofundando em: <b>Spring Boot </b>, <b>Microservice</b> e <b> React </b></li>
 </ul>
 <br>
 
 <h1 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h1>
-      
-  <h3 align="center">🛠️ &ensp; <i>FRONT END </i></h3>
-  <table align="center" height="279px">
+  <div align="center">    
+  <h3 align="center"> &ensp; <i>FRONT END</i></h3>
+  <table align="center">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=html" width="70px" alt="HMLT icon"/>
         <sub>
-          <b>
             <pre>HTML</pre>
-          </b>
         </sub>
       </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=css" width="70px" alt="CSS3 icon"/>
         <sub>
-          <b>
             <pre>CSS3</pre>
-          </b>
         </sub>
       </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=js" width="70px" alt="JAVA SCRIPT icon"/>
         <sub>
-          <b>
             <pre>JAVA SCRIPT </pre>
-          </b>
         </sub>
       </td>
    </tr>
-  </table 
-   
-   <h3 align="center">🛠️ &ensp; <i>BACK END </i></h3>
-    <table align="center" height="279px">
+    </table>
+    <h3 align="center"> &ensp; <i>BACK END</i></h3>
+    <table align="center">
       <tr>
         <td align="center">
         <img src="https://skillicons.dev/icons?i=java" width="70px" alt="JAVA icon" />
         <sub>
-          <b>
             <pre> JAVA </pre>
-          </b>
         </sub>
       </td>
-        
         <td align="center">
         <img src="https://skillicons.dev/icons?i=spring" width="70px" alt="SPRING icon" />
         <sub>
-          <b>
             <pre> SPRING </pre>
-          </b>
         </sub>
       </td>
-        
         <td align="center">
         <img src="https://skillicons.dev/icons?i=php" width="70px" alt="PHP icon" />
         <sub>
-          <b>
             <pre> PHP </pre>
-          </b>
         </sub>
       </td>
-        
         <td align="center">
         <img src="https://skillicons.dev/icons?i=nodejs" width="70px" alt="NODEJS icon" />
         <sub>
-          <b>
             <pre> NODE </pre>
-          </b>
         </sub>
       </td>
       </tr>
       </table>
-  
-    <h3 align="center">🛠️ &ensp; <i>DATA BASE</i></h3>
-    <table align="center" height="279px">
+    <h3 align="center"> &ensp; <i>DATA BASE</i></h3>
+    <table align="center" >
       <tr>
         <td align="center">
         <img src="https://skillicons.dev/icons?i=mysql" width="70px" alt="MYSQL icon" />
         <sub>
-          <b>
             <pre> MySQL </pre>
-          </b>
         </sub>
       </td>
-        
         <td align="center">
         <img src="https://skillicons.dev/icons?i=mongodb" width="70px" alt="MONGODB icon" />
         <sub>
-          <b>
             <pre> MONGO </pre>
-          </b>
         </sub>
       </td>
-        
         <td align="center">
         <img src="https://skillicons.dev/icons?i=postgres" width="70px" alt="POSTGRESS icon" />
         <sub>
-          <b>
             <pre> POSTGRESS </pre>
-          </b>
         </sub>
       </td>
       </tr>
     </table>
-
+      </div>
 <br><br>
       
-   <div align="center">
-  <img align="center" width="280px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>   
+  <div align="center">
+    <img align="center" width="280px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>   
   <div>
-    
   <br><br><br>
+    
+<h1 align="center">🗃️ &ensp; <i>Ｐｒｏｊｅｔｏｓ</i></h1>
+<table height="200px">
+  <tr>
+    <td>
+    <a href="https://github.com/9reis/user-register-API" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=user-register-API&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+</table>
+<br>
 
-<h1 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h1>
+<h2 align="center">
+<details open>
+<summary>📈 &ensp; <i>Ａｔｉｖｉｄａｄｅ</i></summary>
+<br>
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=9reis&theme=tokyo-night&hide_border=true">
 <br><br>
+<img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9reis&langs_count=8&theme=tokyonight&hide_border=true">
+<div align="right">
+<img height="203px" src="https://github-readme-stats.vercel.app/api?username=9reis&show_icons=true&custom_title=Luk4x's%20Github%20Stats&theme=tokyonight&hide_border=true">
+<img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=9reis&theme=tokyonight&hide_border=true">
+</div>
+</details>
+<br><br><br>
+  
+  <h1 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h1>
+  <br><br>
 <p align="center">
   <a href="https://export-download.canva.com/NskEY/DAFOAmNskEY/103/0-37189062837.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20221005%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221005T102753Z&X-Amz-Expires=26369&X-Amz-Signature=e9736a0c26ddc834157637bb3af1e3ffa4e1c9fc28f456d924dcc37c1843e300&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Lucas-Maciel-curr%25C3%25ADculo-frontend-v1.4.pdf&response-expires=Wed%2C%2005%20Oct%202022%2017%3A47%3A22%20GMT">
     <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume">
@@ -165,33 +162,7 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram">
   </a>
 </p> 
-<br><br><br>
-
-<h1 align="center">🗃️ &ensp; <i>Ｐｒｏｊｅｔｏｓ</i></h1>
-
-<table height="495px">
-  <tr>
-    <td>
-    <a href="https://github.com/9reis/user-register-API" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=user-register-API&theme=tokyonight&hide_border=true">
-    </a>
-    </td>
-  </tr>
-  
-</table>
-<br>
-
-<h2 align="center">
-<details open>
-<summary>📈 &ensp; <i>Ａｔｉｖｉｄａｄｅ</i></summary>
-<br>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=9reis&theme=tokyo-night&hide_border=true">
 <br><br>
-<img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9reis&langs_count=8&theme=tokyonight&hide_border=true">
-<div align="right">
-<img height="203px" src="https://github-readme-stats.vercel.app/api?username=9reis&show_icons=true&custom_title=Luk4x's%20Github%20Stats&theme=tokyonight&hide_border=true">
-<img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=9reis&theme=tokyonight&hide_border=true">
-</div>
-</details>
+
 
 
