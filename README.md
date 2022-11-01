@@ -116,12 +116,20 @@
 <h1 align="center">🗃️ &ensp; <i>Ｐｒｏｊｅｔｏｓ</i></h1>
     <br><br>
     <div align="center">
+      <a href="https://github.com/9reis/PDV-PontoDeVenda" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=pdv-pontodevenda&theme=aura_dark&hide_border=true">
+      </a>
       <a href="https://github.com/9reis/CryptoAPI" target="_blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=cryptoapi&theme=aura_dark&hide_border=true">
+      </a>
+      <br><br>
+      <a href="https://github.com/9reis/Rest-API" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=rest-api&theme=aura_dark&hide_border=true">
       </a>
       <a href="https://github.com/9reis/Rest-API" target="_blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=rest-api&theme=aura_dark&hide_border=true">
       </a>
+      <br><br>
   </div>
 <br><br><br><br>
 
