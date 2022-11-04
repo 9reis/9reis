@@ -9,12 +9,10 @@
 <table align="center">
   <tr>
     <td>
-      <b>
-        <a href="README.md"> <b> 🇧🇷 Português </b></a>
-      </b>
+        <a href="README.md"> <img src="https://user-images.githubusercontent.com/106397008/200058926-6cd79c94-37d0-4626-8270-0672f428c49e.png"> </a>
     </td>
     <td>
-      <a href="readme-es.md"> 🇪🇸 Español</a>
+      <a href="readme-es.md"> <img src="https://user-images.githubusercontent.com/106397008/200058386-41defb17-cce8-4249-a68d-0ddbfe972f8b.png"> </a>
     </td>
   </tr>
 </table>
