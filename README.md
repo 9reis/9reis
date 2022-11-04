@@ -151,11 +151,11 @@
   <a href="https://www.canva.com/design/DAFQ6OTNLzE/30xxFKAy4DIUyIUWjt1XMg/view?utm_content=DAFQ6OTNLzE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
     <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume">
   </a>
-  
+  <!--
   <a href="mailto:lucasreis_cod@hotmail.com" alt="Gmail" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL">
   </a>
-
+  --> 
   <a href="https://www.linkedin.com/in/lucas-reis-b67558162/" alt="Linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN">
   </a>
