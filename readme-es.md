@@ -114,18 +114,25 @@
 <h1 align="center">🗃️ &ensp; <i>P R O Y E C T O S</i></h1>
     <br><br>
    <div align="center">
+      <a href="https://github.com/9reis/Pjt-Microservice" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=pjt-microservice&theme=aura_dark&hide_border=true">
+      </a>
       <a href="https://github.com/9reis/PDV-PontoDeVenda" target="_blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=pdv-pontodevenda&theme=aura_dark&hide_border=true">
       </a>
+      <br><br>
       <a href="https://github.com/9reis/CryptoAPI" target="_blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=cryptoapi&theme=aura_dark&hide_border=true">
       </a>
-      <br><br>
       <a href="https://github.com/9reis/Rest-API" target="_blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=rest-api&theme=aura_dark&hide_border=true">
       </a>
-      <a href="https://github.com/9reis/Rest-API" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=rest-api&theme=aura_dark&hide_border=true">
+      <br><br>
+      <a href="https://github.com/9reis/course-springboot" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=course-springboot&theme=aura_dark&hide_border=true">
+      </a>
+      <a href="https://github.com/9reis/Mercado" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=mercado&theme=aura_dark&hide_border=true">
       </a>
       <br><br>
   </div>
