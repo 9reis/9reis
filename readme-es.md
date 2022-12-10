@@ -147,7 +147,7 @@
 <details open>
 <summary>📈 &ensp; <i>A C T I V I D A D E S</i></summary>
 <br>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=9reis&theme=tokyo-night&hide_border=true">
+<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=9reis&theme=tokyo-night&hide_border=true">
 <br><br>
 <img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9reis&langs_count=8&theme=tokyonight&hide_border=true">
 <div align="right">
