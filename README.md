@@ -104,8 +104,13 @@
       </tr>
     </table>
       </div>
-<br><br>
+      <br>
       
+   <div align="center">
+    <img align="center" width="300px" alt="quote" src="https://user-images.githubusercontent.com/106397008/206876189-e0da8e18-0868-49c2-ad17-b14176ad72f9.jpg"/>   
+  <div>
+  <br><br><br>
+
   <div align="center">
     <img align="center" width="280px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>   
   <div>
