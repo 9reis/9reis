@@ -181,6 +181,10 @@
   </a>
 </p> 
 <br><br>
+<div>
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg">
+</div>
+
 
 
 
