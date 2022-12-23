@@ -5,7 +5,7 @@
 
 </div>
 
-<h1 align="center">📇 &ensp; <i>S O B R E</i></h1>
+<h1 align="center">📇 &ensp; <i>Ｓｏｂｒｅ</i></h1>
 <table align="center">
   <tr>
     <td>
@@ -18,15 +18,15 @@
 </table>
 
 <ul align="left">
-    <li>🤩️ Apasionado por la Tecnología, los Libros y la Playa.</li>
-    <li>💻 Estudio en <a href="https://rodolfomori.com.br/devclub/" target="_blank">Dev Superior</a> y en <a href="https://open-bootcamp.com" target="_blank">Open BootCamp<a/>, pero he pasado <a href="https://www.horadecodar.com.br/comunidade-hora-de-codar/" target="_blank">Hora de Codar</a> y por el <a href="https://programadorbr.com" target="_blank">ProgramadorBR</a>
-    <li>🔭 Para ampliar aún más mi Stack y portafolio, estoy constantemente adquiriendo nuevas habilidades y desarrollando proyectos..</li>
-    <li>🔮 Estoy especializandome en Back-End, pero tengo conocimiento de Front-End, pues mi objetivo a plazo es ser Full-Stack.</li>
-    <li>🚀 Actualmente profundizando en: <b>Spring Boot</b>, <b>Microservice</b> e <b> React </b></li>
+    <li>🤩️ Apaixonado por Tecnologia, Livros e Praia.</li>
+    <li>💻 Estudo na <a href="https://rodolfomori.com.br/devclub/" target="_blank">Dev Superior</a> e na <a href="https://open-bootcamp.com" target="_blank">Open BootCamp<a/>, mas já passei pela <a href="https://www.horadecodar.com.br/comunidade-hora-de-codar/" target="_blank">Hora de Codar</a> e pelo <a href="https://programadorbr.com" target="_blank">ProgramadorBR</a>
+    <li>🔭 Para expandir cada vez mais minha Stack e meu portfólio, estou constantemente adquirindo novas habilidades e desenvolvendo projetos.</li>
+    <li>🔮 Estou me especializando em Back-End, mas tenho boas noções de Front-End, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
+    <li>🚀 Atualmente me aprofundando em: <b>Spring Boot </b>, <b>Microservice</b> e <b> React </b></li>
 </ul>
 <br>
 
-<h1 align="center">🛠️ &ensp; <i>T E C N O L O G Í A S</i></h1>
+<h1 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h1>
   <div align="center">    
   <h3 align="center"> &ensp; <i>FRONT END</i></h3>
   <table align="center">
@@ -110,15 +110,15 @@
     <img align="center" width="300px" alt="quote" src="https://user-images.githubusercontent.com/106397008/206876189-e0da8e18-0868-49c2-ad17-b14176ad72f9.jpg"/>   
   <div>
   <br><br><br>
-      
+
   <div align="center">
     <img align="center" width="280px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>   
   <div>
   <br><br><br>
     
-<h1 align="center">🗃️ &ensp; <i>P R O Y E C T O S</i></h1>
+<h1 align="center">🗃️ &ensp; <i>Ｐｒｏｊｅｔｏｓ</i></h1>
     <br><br>
-   <div align="center">
+    <div align="center">
       <a href="https://github.com/9reis/Pjt-Microservice" target="_blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=pjt-microservice&theme=aura_dark&hide_border=true">
       </a>
@@ -133,11 +133,11 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=rest-api&theme=aura_dark&hide_border=true">
       </a>
       <br><br>
+      <a href="https://github.com/9reis/Lugares-Favoritos" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=lugares-favoritos&theme=aura_dark&hide_border=true">
+      </a>
       <a href="https://github.com/9reis/course-springboot" target="_blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=course-springboot&theme=aura_dark&hide_border=true">
-      </a>
-      <a href="https://github.com/9reis/Mercado" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=mercado&theme=aura_dark&hide_border=true">
       </a>
       <br><br>
   </div>
@@ -145,7 +145,7 @@
 
 <h2 align="center">
 <details open>
-<summary>📈 &ensp; <i>A C T I V I D A D E S</i></summary>
+<summary>📈 &ensp; <i>Ａｔｉｖｉｄａｄｅ</i></summary>
 <br>
 <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=9reis&theme=tokyo-night&hide_border=true">
 <br><br>
@@ -157,18 +157,17 @@
 </details>
 <br><br><br>
   
-  <h1 align="center">📩 &ensp; <i>C O N T A C T O</i></h1>
+  <h1 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h1>
   <br>
 <p align="center">
-  <a href="https://www.canva.com/design/DAFIjz6q9ng/EZi4cKak37uGvdmP-aUFpw/view?  utm_content=DAFIjz6q9ng&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+  <a href="https://www.canva.com/design/DAFQ6OTNLzE/30xxFKAy4DIUyIUWjt1XMg/view?utm_content=DAFQ6OTNLzE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
     <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume">
   </a>
   <!--
   <a href="mailto:lucasreis_cod@hotmail.com" alt="Gmail" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL">
   </a>
-  -->
-
+  --> 
   <a href="https://www.linkedin.com/in/lucas-reis-b67558162/" alt="Linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN">
   </a>
@@ -185,4 +184,7 @@
 <div>
   <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg">
 </div>
+
+
+
 
