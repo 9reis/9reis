@@ -9,20 +9,20 @@
 <table align="center">
   <tr>
     <td>
-        <a href="README.md"> <img src="https://user-images.githubusercontent.com/106397008/200058926-6cd79c94-37d0-4626-8270-0672f428c49e.png"> </a>
+        <a href="README.md"> <img src="https://user-images.githubusercontent.com/106397008/200058386-41defb17-cce8-4249-a68d-0ddbfe972f8b.png"> </a>
     </td>
     <td>
-      <a href="readme-es.md"> <img src="https://user-images.githubusercontent.com/106397008/200058386-41defb17-cce8-4249-a68d-0ddbfe972f8b.png"> </a>
+      <a href="readme-es.md"> <img src="https://user-images.githubusercontent.com/106397008/200058926-6cd79c94-37d0-4626-8270-0672f428c49e.png"> </a>
     </td>
   </tr>
 </table>
 
 <ul align="left">
-    <li>🤩️ Apaixonado por Tecnologia, Livros e Praia.</li>
-    <li>💻 Estudo na <a href="https://rodolfomori.com.br/devclub/" target="_blank">Dev Superior</a> e na <a href="https://open-bootcamp.com" target="_blank">Open BootCamp<a/>, mas já passei pela <a href="https://www.horadecodar.com.br/comunidade-hora-de-codar/" target="_blank">Hora de Codar</a> e pelo <a href="https://programadorbr.com" target="_blank">ProgramadorBR</a>
-    <li>🔭 Para expandir cada vez mais minha Stack e meu portfólio, estou constantemente adquirindo novas habilidades e desenvolvendo projetos.</li>
-    <li>🔮 Estou me especializando em Back-End, mas tenho boas noções de Front-End, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
-    <li>🚀 Atualmente me aprofundando em: <b>Spring Boot </b>, <b>Microservice</b> e <b> React </b></li>
+    <li>🤩️ Apasionado por la Tecnología, los Libros y la Playa.</li>
+    <li>💻 Estudio en la <a href="https://devsuperior.com.br/cursos" target="_blank">Dev Superior</a> y en el <a href="https://open-bootcamp.com" target="_blank">Open BootCamp<a/>, pero ya estudie en la <a href="https://www.horadecodar.com.br/comunidade-hora-de-codar/" target="_blank">Hora de Codar</a> y en el <a href="https://programadorbr.com" target="_blank">ProgramadorBR</a>
+    <li>🔭 Para ampliar aún más mi Stack y mi cartera, estoy constantemente adquiriendo nuevas habilidades y desarrollando proyectos..</li>
+    <li>🔮 Estoy especializadome en Back-End, pero tengo buenas nociones de Front-End, pues mi objetivo a largo plazo es convertirme en Full-Stack.</li>
+    <li>🚀 Actualmente mejorando en: <b>Spring Boot </b> y <b>Microservice</b> </li>
 </ul>
 <br>
 
@@ -116,7 +116,7 @@
   <div>
   <br><br><br>
     
-<h1 align="center">🗃️ &ensp; <i>Ｐｒｏｊｅｔｏｓ</i></h1>
+<h1 align="center">🗃️ &ensp; <i>P r o y e c t o s</i></h1>
     <br><br>
     <div align="center">
       <a href="https://github.com/9reis/Pjt-Microservice" target="_blank">
@@ -145,7 +145,7 @@
 
 <h2 align="center">
 <details open>
-<summary>📈 &ensp; <i>Ａｔｉｖｉｄａｄｅ</i></summary>
+<summary>📈 &ensp; <i>A c t i v i d a d e s </i></summary>
 <br>
 <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=9reis&theme=tokyo-night&hide_border=true">
 <br><br>
@@ -157,10 +157,10 @@
 </details>
 <br><br><br>
   
-  <h1 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h1>
+ ## <h1 align="center">📩 &ensp; <i>C o n t a c t o </i></h1>
   <br>
 <p align="center">
-  <a href="https://www.canva.com/design/DAFQ6OTNLzE/30xxFKAy4DIUyIUWjt1XMg/view?utm_content=DAFQ6OTNLzE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+  <a href="https://www.canva.com/design/DAFIjz6q9ng/EZi4cKak37uGvdmP-aUFpw/view?utm_content=DAFIjz6q9ng&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
     <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume">
   </a>
   <!--
