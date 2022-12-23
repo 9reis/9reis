@@ -136,8 +136,8 @@
       <a href="https://github.com/9reis/Lugares-Favoritos" target="_blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=lugares-favoritos&theme=aura_dark&hide_border=true">
       </a>
-      <a href="https://github.com/9reis/course-springboot" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=course-springboot&theme=aura_dark&hide_border=true">
+      <a href="https://github.com/9reis/Barbearia" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=barbearia&theme=aura_dark&hide_border=true">
       </a>
       <br><br>
   </div>
