@@ -9,10 +9,10 @@
 <table align="center">
   <tr>
     <td>
-        <a href="README.md"> <img src="https://user-images.githubusercontent.com/106397008/200058926-6cd79c94-37d0-4626-8270-0672f428c49e.png"> </a>
+        <a href="README.md"> <img src="https://user-images.githubusercontent.com/106397008/200058386-41defb17-cce8-4249-a68d-0ddbfe972f8b.png"> </a>
     </td>
     <td>
-      <a href="readme-es.md"> <img src="https://user-images.githubusercontent.com/106397008/200058386-41defb17-cce8-4249-a68d-0ddbfe972f8b.png"> </a>
+      <a href="readme-es.md"> <img src="https://user-images.githubusercontent.com/106397008/200058926-6cd79c94-37d0-4626-8270-0672f428c49e.png"> </a>
     </td>
   </tr>
 </table>
@@ -136,8 +136,8 @@
       <a href="https://github.com/9reis/Lugares-Favoritos" target="_blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=lugares-favoritos&theme=aura_dark&hide_border=true">
       </a>
-      <a href="https://github.com/9reis/course-springboot" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=course-springboot&theme=aura_dark&hide_border=true">
+      <a href="https://github.com/9reis/Barbearia" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=barbearia&theme=aura_dark&hide_border=true">
       </a>
       <br><br>
   </div>
