@@ -53,7 +53,7 @@
     -->
    </tr>
     </table>
-    <h3 align="center"> &ensp; <i>BACK END</i></h3>
+    <h3 align="center"> &ensp; <i> </i></h3>
     <table align="center">
       <tr>
         <td align="center">
@@ -63,21 +63,21 @@
         </sub>
       </td>
         <td align="center">
-        <img src="https://skillicons.dev/icons?i=spring" width="80px" alt="SPRING icon" />
+        <img src="https://skillicons.dev/icons?i=flutter" width="80px" alt="FLUTTER icon" />
         <sub>
-            <pre> SPRING </pre>
+            <pre> FLUTTER </pre>
         </sub>
       </td>
         <td align="center">
-            <img src="https://skillicons.dev/icons?i=php" width="80px" alt="PHP icon" />
+            <img src="https://skillicons.dev/icons?i=react" width="80px" alt="REACT icon" />
             <sub>
-                <pre> PHP </pre>
+                <pre> REACT NATIVE </pre>
             </sub>
         </td>
         <td align="center">
-            <img src="https://skillicons.dev/icons?i=nodejs" width="80px" alt="NODEJS icon" />
+            <img src="https://skillicons.dev/icons?i=spring" width="80px" alt="SPRING icon" />
             <sub>
-                <pre> NODE </pre>
+                <pre> SPRING </pre>
             </sub>
         </td>
       </tr>
@@ -92,21 +92,21 @@
             </sub>
         </td>
         <td align="center">
-            <img src="https://skillicons.dev/icons?i=mongodb" width="80px" alt="MONGODB icon" />
+            <img src="https://skillicons.dev/icons?i=firebase" width="80px" alt="FIREBASE icon" />
             <sub>
-                <pre> MONGO </pre>
+                <pre> FIREBASE </pre>
+            </sub>
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=sqlite" width="70px" alt="SQLITE icon" />
+            <sub>
+                <pre> SQLITE </pre>
             </sub>
         </td>
         <td align="center">
             <img src="https://skillicons.dev/icons?i=postgres" width="80px" alt="POSTGRESS icon" />
             <sub>
                 <pre> POSTGRESS </pre>
-            </sub>
-        </td>
-        <td align="center">
-            <img src="https://skillicons.dev/icons?i=sqlite" width="70px" alt="SQLITE icon" />
-            <sub>
-                <pre> SQLITE</pre>
             </sub>
         </td>
       </tr>
@@ -189,9 +189,6 @@
   </a>
 </p> 
 <br><br>
-<div>
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg">
-  </div>
 
 
 
