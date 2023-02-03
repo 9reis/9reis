@@ -28,34 +28,36 @@
 
 <h1 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h1>
   <div align="center">    
-  <h3 align="center"> &ensp; <i>FRONT END</i></h3>
+  <h3 align="center"> &ensp; <i> SISTEMA OPERATIVO </i></h3>
   <table align="center">
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="70px" alt="HMLT icon"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="70px" alt="ANDROID icon"/>
         <sub>
-            <pre>HTML</pre>
+            <pre>ANDROID</pre>
         </sub>
       </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="70px" alt="CSS3 icon"/>
+         <img src="https://user-images.githubusercontent.com/106397008/216715256-b1e33fa3-1ca4-47e2-b1fc-34f802fa4c90.SVG" width="55px" alt="IOS icon"/>
         <sub>
-            <pre>CSS3</pre>
+            <pre>IOS</pre>
         </sub>
       </td>
+    <!-- 
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=js" width="70px" alt="JAVA SCRIPT icon"/>
+        <img src="https://skillicons.dev/icons?i=js" width="70px" alt="JAVA SCRIPT icon"/>
         <sub>
             <pre>JAVA SCRIPT </pre>
         </sub>
       </td>
+    -->
    </tr>
     </table>
     <h3 align="center"> &ensp; <i>BACK END</i></h3>
     <table align="center">
       <tr>
         <td align="center">
-        <img src="https://skillicons.dev/icons?i=java" width="80px" alt="JAVA icon" />
+        <img src="https://skillicons.dev/icons?i=java" width="80px" alt="JAVA icon" background="white" />
         <sub>
             <pre> JAVA </pre>
         </sub>
@@ -67,40 +69,46 @@
         </sub>
       </td>
         <td align="center">
-        <img src="https://skillicons.dev/icons?i=php" width="80px" alt="PHP icon" />
-        <sub>
-            <pre> PHP </pre>
-        </sub>
-      </td>
+            <img src="https://skillicons.dev/icons?i=php" width="80px" alt="PHP icon" />
+            <sub>
+                <pre> PHP </pre>
+            </sub>
+        </td>
         <td align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="80px" alt="NODEJS icon" />
-        <sub>
-            <pre> NODE </pre>
-        </sub>
-      </td>
+            <img src="https://skillicons.dev/icons?i=nodejs" width="80px" alt="NODEJS icon" />
+            <sub>
+                <pre> NODE </pre>
+            </sub>
+        </td>
       </tr>
-      </table>
+    </table>
     <h3 align="center"> &ensp; <i>DATA BASE</i></h3>
     <table align="center" >
       <tr>
         <td align="center">
-        <img src="https://skillicons.dev/icons?i=mysql" width="80px" alt="MYSQL icon" />
-        <sub>
-            <pre> MySQL </pre>
-        </sub>
-      </td>
+            <img src="https://skillicons.dev/icons?i=mysql" width="80px" alt="MYSQL icon" />
+            <sub>
+                <pre> MySQL </pre>
+            </sub>
+        </td>
         <td align="center">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="80px" alt="MONGODB icon" />
-        <sub>
-            <pre> MONGO </pre>
-        </sub>
-      </td>
+            <img src="https://skillicons.dev/icons?i=mongodb" width="80px" alt="MONGODB icon" />
+            <sub>
+                <pre> MONGO </pre>
+            </sub>
+        </td>
         <td align="center">
-        <img src="https://skillicons.dev/icons?i=postgres" width="80px" alt="POSTGRESS icon" />
-        <sub>
-            <pre> POSTGRESS </pre>
-        </sub>
-      </td>
+            <img src="https://skillicons.dev/icons?i=postgres" width="80px" alt="POSTGRESS icon" />
+            <sub>
+                <pre> POSTGRESS </pre>
+            </sub>
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=sqlite" width="70px" alt="SQLITE icon" />
+            <sub>
+                <pre> SQLITE</pre>
+            </sub>
+        </td>
       </tr>
     </table>
       </div>
@@ -183,7 +191,7 @@
 <br><br>
 <div>
   <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg">
-</div>
+  </div>
 
 
 
