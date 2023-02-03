@@ -98,7 +98,7 @@
             </sub>
         </td>
         <td align="center">
-            <img src="https://skillicons.dev/icons?i=sqlite" width="70px" alt="SQLITE icon" />
+            <img src="https://skillicons.dev/icons?i=sqlite" width="80px" alt="SQLITE icon" />
             <sub>
                 <pre> SQLITE </pre>
             </sub>
