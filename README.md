@@ -19,10 +19,10 @@
 
 <ul align="left">
     <li>🤩️ Apasionado por la Tecnología, los Libros y la Playa.</li>
-    <li>💻 Estudio en la <a href="https://devsuperior.com.br/cursos" target="_blank">Dev Superior</a> y en el <a href="https://open-bootcamp.com" target="_blank">Open BootCamp<a/>, pero ya estudie en la <a href="https://www.horadecodar.com.br/comunidade-hora-de-codar/" target="_blank">Hora de Codar</a> y en el <a href="https://programadorbr.com" target="_blank">ProgramadorBR</a>
+    <li>🔮 Estoy especializadome en mobile, pues mi objetivo a largo plazo es crear una aplicación con una técnica que he desarrollado que me ayudó a dominar el español en 1 mes!.</li>
+    <li>💻 Estudio en la <a href="https://devsuperior.com.br/cursos" target="_blank">Dev Superior</a> y en el <a href="cod3r.com.br" target="_blank">Cod3r<a/>, pero ya estudie en la <a href="https://www.horadecodar.com.br/comunidade-hora-de-codar/" target="_blank">Hora de Codar</a> y en el <a href="https://programadorbr.com" target="_blank">ProgramadorBR</a>
     <li>🔭 Para ampliar aún más mi Stack y mi cartera, estoy constantemente adquiriendo nuevas habilidades y desarrollando proyectos..</li>
-    <li>🔮 Estoy especializadome en Back-End, pero tengo buenas nociones de Front-End, pues mi objetivo a largo plazo es convertirme en Full-Stack.</li>
-    <li>🚀 Actualmente mejorando en: <b>Spring Boot </b> y <b>Microservice</b> </li>
+    <!-- <li>🚀 Actualmente mejorando en: <b>Spring Boot </b> y <b>Microservice</b> </li> -->
 </ul>
 <br>
 
@@ -56,18 +56,21 @@
     <h3 align="center"> &ensp; <i> </i></h3>
     <table align="center">
       <tr>
+        <!--
         <td align="center">
-        <img src="https://skillicons.dev/icons?i=java" width="80px" alt="JAVA icon" background="white" />
-        <sub>
+          <img src="https://skillicons.dev/icons?i=java" width="80px" alt="JAVA icon" background="white" />
+          <sub>
             <pre> JAVA </pre>
-        </sub>
-      </td>
+          </sub>
+        </td>
+        -->
         <td align="center">
         <img src="https://skillicons.dev/icons?i=flutter" width="80px" alt="FLUTTER icon" />
         <sub>
             <pre> FLUTTER </pre>
         </sub>
-      </td>
+        </td>
+        <!--
         <td align="center">
             <img src="https://skillicons.dev/icons?i=react" width="80px" alt="REACT icon" />
             <sub>
@@ -80,17 +83,20 @@
                 <pre> SPRING </pre>
             </sub>
         </td>
+        -->
       </tr>
     </table>
     <h3 align="center"> &ensp; <i>DATA BASE</i></h3>
     <table align="center" >
       <tr>
+        <!--
         <td align="center">
             <img src="https://skillicons.dev/icons?i=mysql" width="80px" alt="MYSQL icon" />
             <sub>
                 <pre> MySQL </pre>
             </sub>
         </td>
+        -->
         <td align="center">
             <img src="https://skillicons.dev/icons?i=firebase" width="80px" alt="FIREBASE icon" />
             <sub>
@@ -103,11 +109,13 @@
                 <pre> SQLITE </pre>
             </sub>
         </td>
+        <!--
         <td align="center">
             <img src="https://skillicons.dev/icons?i=postgres" width="80px" alt="POSTGRESS icon" />
             <sub>
                 <pre> POSTGRESS </pre>
             </sub>
+         -->
         </td>
       </tr>
     </table>
