@@ -18,89 +18,105 @@
 </table>
 
 <ul align="left">
-    <li>🤩️ Apaixonado por Tecnologia, Livros e Praia.</li>
-    <li>💻 Estudo na <a href="https://devsuperior.com.br/cursos" target="_blank">Dev Superior</a> e na <a href="https://open-bootcamp.com" target="_blank">Open BootCamp<a/>, mas já passei pela <a href="https://www.horadecodar.com.br/comunidade-hora-de-codar/" target="_blank">Hora de Codar</a> e pelo <a href="https://programadorbr.com" target="_blank">ProgramadorBR</a>
-    <li>🔭 Para expandir cada vez mais minha Stack e meu portfólio, estou constantemente adquirindo novas habilidades e desenvolvendo projetos.</li>
-    <li>🔮 Estou me especializando em Back-End, mas tenho boas noções de Front-End, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
-    <li>🚀 Atualmente me aprofundando em: <b>Spring Boot </b>, <b>Microservice</b> e <b> React </b></li>
+    <li>🤩️ Apaixonado por Tecnologia, livros e praia </li>
+    <li>🔮 Estou me especializando em desenvolvimento Mobile, pois meu objetivo a longo prazo é criar um aplicatiovo com uma tecnica que eu desenvolvi que me ajudou a adquirir fluencia no Espanhol em 2 semanas. </li>
+    <li>💻 Estudo na <a href="https://devsuperior.com.br/cursos" target="_blank">Dev Superior</a> e na <a href="cod3r.com.br" target="_blank">Cod3r<a/>,porem ja estudei na <a href="https://www.horadecodar.com.br/comunidade-hora-de-codar/" target="_blank">Hora de Codar</a> e na <a href="https://programadorbr.com" target="_blank">ProgramadorBR</a>
+    <li>🔭 Para ampliar ainda mais minha Stack estou constantemente adquirindo novas habilidades e desenvolvendo projetos..</li>
+    <!-- <li>🚀 Actualmente mejorando en: <b>Spring Boot </b> y <b>Microservice</b> </li> -->
 </ul>
 <br>
 
 <h1 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h1>
   <div align="center">    
-  <h3 align="center"> &ensp; <i>FRONT END</i></h3>
+  <h3 align="center"> &ensp; <i> SISTEMA OPERATIVO </i></h3>
   <table align="center">
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="70px" alt="HMLT icon"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="70px" alt="ANDROID icon"/>
         <sub>
-            <pre>HTML</pre>
+            <pre>ANDROID</pre>
         </sub>
       </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="70px" alt="CSS3 icon"/>
+         <img src="https://user-images.githubusercontent.com/106397008/216715256-b1e33fa3-1ca4-47e2-b1fc-34f802fa4c90.SVG" width="55px" alt="IOS icon"/>
         <sub>
-            <pre>CSS3</pre>
+            <pre>IOS</pre>
         </sub>
       </td>
+    <!-- 
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=js" width="70px" alt="JAVA SCRIPT icon"/>
+        <img src="https://skillicons.dev/icons?i=js" width="70px" alt="JAVA SCRIPT icon"/>
         <sub>
             <pre>JAVA SCRIPT </pre>
         </sub>
       </td>
+    -->
    </tr>
     </table>
-    <h3 align="center"> &ensp; <i>BACK END</i></h3>
+    <h3 align="center"> &ensp; <i> </i></h3>
     <table align="center">
       <tr>
+        <!--
         <td align="center">
-        <img src="https://skillicons.dev/icons?i=java" width="80px" alt="JAVA icon" />
-        <sub>
+          <img src="https://skillicons.dev/icons?i=java" width="80px" alt="JAVA icon" background="white" />
+          <sub>
             <pre> JAVA </pre>
-        </sub>
-      </td>
+          </sub>
+        </td>
+        -->
         <td align="center">
-        <img src="https://skillicons.dev/icons?i=spring" width="80px" alt="SPRING icon" />
-        <sub>
-            <pre> SPRING </pre>
-        </sub>
-      </td>
+            <img src="https://skillicons.dev/icons?i=dart" width="80px" alt="DART icon" />
+            <sub>
+                <pre> DART </pre>
+            </sub>
+        </td>
         <td align="center">
-        <img src="https://skillicons.dev/icons?i=php" width="80px" alt="PHP icon" />
+        <img src="https://skillicons.dev/icons?i=flutter" width="80px" alt="FLUTTER icon" />
         <sub>
-            <pre> PHP </pre>
+            <pre> FLUTTER </pre>
         </sub>
-      </td>
+        </td>
+        <!--
         <td align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="80px" alt="NODEJS icon" />
-        <sub>
-            <pre> NODE </pre>
-        </sub>
-      </td>
+            <img src="https://skillicons.dev/icons?i=spring" width="80px" alt="SPRING icon" />
+            <sub>
+                <pre> SPRING </pre>
+            </sub>
+        </td>
+        -->
       </tr>
-      </table>
+    </table>
     <h3 align="center"> &ensp; <i>DATA BASE</i></h3>
     <table align="center" >
       <tr>
+        <!--
         <td align="center">
-        <img src="https://skillicons.dev/icons?i=mysql" width="80px" alt="MYSQL icon" />
-        <sub>
-            <pre> MySQL </pre>
-        </sub>
-      </td>
+            <img src="https://skillicons.dev/icons?i=mysql" width="80px" alt="MYSQL icon" />
+            <sub>
+                <pre> MySQL </pre>
+            </sub>
+        </td>
+        -->
         <td align="center">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="80px" alt="MONGODB icon" />
-        <sub>
-            <pre> MONGO </pre>
-        </sub>
-      </td>
+            <img src="https://skillicons.dev/icons?i=firebase" width="80px" alt="FIREBASE icon" />
+            <sub>
+                <pre> FIREBASE </pre>
+            </sub>
+        </td>
         <td align="center">
-        <img src="https://skillicons.dev/icons?i=postgres" width="80px" alt="POSTGRESS icon" />
-        <sub>
-            <pre> POSTGRESS </pre>
-        </sub>
-      </td>
+            <img src="https://skillicons.dev/icons?i=sqlite" width="75px" alt="SQLITE icon" />
+            <sub>
+                <pre> SQLITE </pre>
+            </sub>
+        </td>
+        <!--
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=postgres" width="80px" alt="POSTGRESS icon" />
+            <sub>
+                <pre> POSTGRESS </pre>
+            </sub>
+         -->
+        </td>
       </tr>
     </table>
       </div>
@@ -116,28 +132,28 @@
   <div>
   <br><br><br>
     
-<h1 align="center">🗃️ &ensp; <i>Ｐｒｏｊｅｔｏｓ</i></h1>
+<h1 align="center">🗃️ &ensp; <i>P r o y e c t o s</i></h1>
     <br><br>
     <div align="center">
-      <a href="https://github.com/9reis/Pjt-Microservice" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=pjt-microservice&theme=aura_dark&hide_border=true">
+      <a href="https://github.com/9reis/plant_app" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=plant_app&theme=aura_dark&hide_border=true">
       </a>
-      <a href="https://github.com/9reis/PDV-PontoDeVenda" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=pdv-pontodevenda&theme=aura_dark&hide_border=true">
-      </a>
-      <br><br>
-      <a href="https://github.com/9reis/CryptoAPI" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=cryptoapi&theme=aura_dark&hide_border=true">
-      </a>
-      <a href="https://github.com/9reis/Rest-API" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=rest-api&theme=aura_dark&hide_border=true">
+      <a href="https://github.com/9reis/loja_ii__flutter" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=loja_ii__flutter&theme=aura_dark&hide_border=true">
       </a>
       <br><br>
-      <a href="https://github.com/9reis/Lugares-Favoritos" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=lugares-favoritos&theme=aura_dark&hide_border=true">
+      <a href="https://github.com/9reis/receitas__flutter" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=receitas__flutter&theme=aura_dark&hide_border=true">
       </a>
-      <a href="https://github.com/9reis/Barbearia" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=barbearia&theme=aura_dark&hide_border=true">
+      <a href="https://github.com/9reis/despesas_pessoais__flutter" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=despesas_pessoais__flutter&theme=aura_dark&hide_border=true">
+      </a>
+      <br><br>
+      <a href="https://github.com/9reis/recipe_detail_screen" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=recipe_detail_screen&theme=aura_dark&hide_border=true">
+      </a>
+      <a href="https://github.com/9reis/campo_minado__flutter" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=campo_minado__flutter&theme=aura_dark&hide_border=true">
       </a>
       <br><br>
   </div>
@@ -180,10 +196,8 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram">
   </a>
 </p> 
-<br><br>
-<div>
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg">
-</div>
+
+
 
 
 
