@@ -176,7 +176,7 @@
   <h1 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h1>
   <br>
 <p align="center">
-  <a href="https://www.canva.com/design/DAFQ6OTNLzE/30xxFKAy4DIUyIUWjt1XMg/view?utm_content=DAFQ6OTNLzE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+  <a href="https://www.canva.com/design/DAFQ6OTNLzE/30xxFKAy4DIUyIUWjt1XMg/edit?utm_content=DAFQ6OTNLzE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
     <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume">
   </a>
   <!--
