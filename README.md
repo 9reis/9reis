@@ -65,18 +65,18 @@
         </td>
         -->
         <td align="center">
+            <img src="https://skillicons.dev/icons?i=dart" width="80px" alt="DART icon" />
+            <sub>
+                <pre> DART </pre>
+            </sub>
+        </td>
+        <td align="center">
         <img src="https://skillicons.dev/icons?i=flutter" width="80px" alt="FLUTTER icon" />
         <sub>
             <pre> FLUTTER </pre>
         </sub>
         </td>
         <!--
-        <td align="center">
-            <img src="https://skillicons.dev/icons?i=react" width="80px" alt="REACT icon" />
-            <sub>
-                <pre> REACT NATIVE </pre>
-            </sub>
-        </td>
         <td align="center">
             <img src="https://skillicons.dev/icons?i=spring" width="80px" alt="SPRING icon" />
             <sub>
@@ -135,25 +135,25 @@
 <h1 align="center">🗃️ &ensp; <i>P r o y e c t o s</i></h1>
     <br><br>
     <div align="center">
-      <a href="https://github.com/9reis/Pjt-Microservice" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=pjt-microservice&theme=aura_dark&hide_border=true">
+      <a href="https://github.com/9reis/plant_app" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=plant_app&theme=aura_dark&hide_border=true">
       </a>
-      <a href="https://github.com/9reis/PDV-PontoDeVenda" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=pdv-pontodevenda&theme=aura_dark&hide_border=true">
-      </a>
-      <br><br>
-      <a href="https://github.com/9reis/CryptoAPI" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=cryptoapi&theme=aura_dark&hide_border=true">
-      </a>
-      <a href="https://github.com/9reis/Rest-API" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=rest-api&theme=aura_dark&hide_border=true">
+      <a href="https://github.com/9reis/loja_ii__flutter" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=loja_ii__flutter&theme=aura_dark&hide_border=true">
       </a>
       <br><br>
-      <a href="https://github.com/9reis/Lugares-Favoritos" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=lugares-favoritos&theme=aura_dark&hide_border=true">
+      <a href="https://github.com/9reis/receitas__flutter" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=receitas__flutter&theme=aura_dark&hide_border=true">
       </a>
-      <a href="https://github.com/9reis/Barbearia" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=barbearia&theme=aura_dark&hide_border=true">
+      <a href="https://github.com/9reis/despesas_pessoais__flutter" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=despesas_pessoais__flutter&theme=aura_dark&hide_border=true">
+      </a>
+      <br><br>
+      <a href="https://github.com/9reis/recipe_detail_screen" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=recipe_detail_screen&theme=aura_dark&hide_border=true">
+      </a>
+      <a href="https://github.com/9reis/campo_minado__flutter" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=campo_minado__flutter&theme=aura_dark&hide_border=true">
       </a>
       <br><br>
   </div>
