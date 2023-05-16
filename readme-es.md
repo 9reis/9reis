@@ -19,7 +19,7 @@
 
 <ul align="left">
     <li>🤩️ Apaixonado por Tecnologia, livros e praia </li>
-    <li>🔮 Estou me especializando em desenvolvimento Mobile, pois meu objetivo a longo prazo é criar um aplicatiovo com uma tecnica que eu desenvolvi que me ajudou a adquirir fluencia no Espanhol em 2 semanas. </li>
+    <li>🔮 Estou me especializando em desenvolvimento Mobile, pois meu objetivo a longo prazo é criar um aplicatiovo com uma tecnica que eu desenvolvi que me ajudou a adquirir fluencia no Espanhol em 1 mês . </li>
     <li>💻 Estudo na <a href="https://devsuperior.com.br/cursos" target="_blank">Dev Superior</a> e na <a href="cod3r.com.br" target="_blank">Cod3r<a/>,porem ja estudei na <a href="https://www.horadecodar.com.br/comunidade-hora-de-codar/" target="_blank">Hora de Codar</a> e na <a href="https://programadorbr.com" target="_blank">ProgramadorBR</a>
     <li>🔭 Para ampliar ainda mais minha Stack estou constantemente adquirindo novas habilidades e desenvolvendo projetos..</li>
     <!-- <li>🚀 Actualmente mejorando en: <b>Spring Boot </b> y <b>Microservice</b> </li> -->
