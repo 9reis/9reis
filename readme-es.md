@@ -43,27 +43,11 @@
             <pre>IOS</pre>
         </sub>
       </td>
-    <!-- 
-    <td align="center">
-        <img src="https://skillicons.dev/icons?i=js" width="70px" alt="JAVA SCRIPT icon"/>
-        <sub>
-            <pre>JAVA SCRIPT </pre>
-        </sub>
-      </td>
-    -->
    </tr>
     </table>
     <h3 align="center"> &ensp; <i> </i></h3>
     <table align="center">
       <tr>
-        <!--
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=java" width="80px" alt="JAVA icon" background="white" />
-          <sub>
-            <pre> JAVA </pre>
-          </sub>
-        </td>
-        -->
         <td align="center">
             <img src="https://skillicons.dev/icons?i=dart" width="80px" alt="DART icon" />
             <sub>
@@ -76,27 +60,11 @@
             <pre> FLUTTER </pre>
         </sub>
         </td>
-        <!--
-        <td align="center">
-            <img src="https://skillicons.dev/icons?i=spring" width="80px" alt="SPRING icon" />
-            <sub>
-                <pre> SPRING </pre>
-            </sub>
-        </td>
-        -->
       </tr>
     </table>
     <h3 align="center"> &ensp; <i>DATA BASE</i></h3>
     <table align="center" >
       <tr>
-        <!--
-        <td align="center">
-            <img src="https://skillicons.dev/icons?i=mysql" width="80px" alt="MYSQL icon" />
-            <sub>
-                <pre> MySQL </pre>
-            </sub>
-        </td>
-        -->
         <td align="center">
             <img src="https://skillicons.dev/icons?i=firebase" width="80px" alt="FIREBASE icon" />
             <sub>
@@ -109,14 +77,6 @@
                 <pre> SQLITE </pre>
             </sub>
         </td>
-        <!--
-        <td align="center">
-            <img src="https://skillicons.dev/icons?i=postgres" width="80px" alt="POSTGRESS icon" />
-            <sub>
-                <pre> POSTGRESS </pre>
-            </sub>
-         -->
-        </td>
       </tr>
     </table>
       </div>
@@ -126,35 +86,15 @@
     <img align="center" width="300px" alt="quote" src="https://user-images.githubusercontent.com/106397008/206876189-e0da8e18-0868-49c2-ad17-b14176ad72f9.jpg"/>   
   <div>
   <br><br><br>
-
-  <div align="center">
-    <img align="center" width="280px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>   
-  <div>
-  <br><br><br>
     
 <h1 align="center">🗃️ &ensp; <i>P r o y e c t o s</i></h1>
     <br><br>
     <div align="center">
+      <!--
       <a href="https://github.com/9reis/plant_app" target="_blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=plant_app&theme=aura_dark&hide_border=true">
       </a>
-      <a href="https://github.com/9reis/loja_ii__flutter" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=loja_ii__flutter&theme=aura_dark&hide_border=true">
-      </a>
-      <br><br>
-      <a href="https://github.com/9reis/receitas__flutter" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=receitas__flutter&theme=aura_dark&hide_border=true">
-      </a>
-      <a href="https://github.com/9reis/despesas_pessoais__flutter" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=despesas_pessoais__flutter&theme=aura_dark&hide_border=true">
-      </a>
-      <br><br>
-      <a href="https://github.com/9reis/recipe_detail_screen" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=recipe_detail_screen&theme=aura_dark&hide_border=true">
-      </a>
-      <a href="https://github.com/9reis/campo_minado__flutter" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=campo_minado__flutter&theme=aura_dark&hide_border=true">
-      </a>
+      -->
       <br><br>
   </div>
 <br><br><br><br>
@@ -164,6 +104,10 @@
 <summary>📈 &ensp; <i>Ａｔｉｖｉｄａｄｅ</i></summary>
 <br>
 <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=9reis&theme=tokyo-night&hide_border=true">
+  <picture>
+  <source srcset="https://raw.githubusercontent.com/username=9reis/repository_name/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/username/repository_name/main/output/stats_commits.svg">
+</picture>
 <br><br>
 <img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9reis&langs_count=8&theme=tokyonight&hide_border=true">
 <div align="right">
@@ -179,11 +123,7 @@
   <a href="https://www.canva.com/design/DAFQ6OTNLzE/30xxFKAy4DIUyIUWjt1XMg/edit?utm_content=DAFQ6OTNLzE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
     <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume">
   </a>
-  <!--
-  <a href="mailto:lucasreis_cod@hotmail.com" alt="Gmail" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL">
-  </a>
-  --> 
+  
   <a href="https://www.linkedin.com/in/lucas-reis-b67558162/" alt="Linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN">
   </a>
