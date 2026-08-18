@@ -1,8 +1,6 @@
 
 <div align="center">
-
-![00](https://user-images.githubusercontent.com/106397008/197808990-e1ae92ce-afbb-4a5c-907d-0ad0ba0b83d1.jpg)
-
+<img width="500" src="https://user-images.githubusercontent.com/106397008/197808990-e1ae92ce-afbb-4a5c-907d-0ad0ba0b83d1.jpg">
 </div>
 
 <h1 align="center">📇 &ensp; <i>Ｓｏｂｒｅ</i></h1>
@@ -28,68 +26,61 @@
 
 <h1 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h1>
   <div align="center">    
-  <h3 align="center"> &ensp; <i> SISTEMA OPERATIVO </i></h3>
-  <table align="center">
-  <tr>
-    <td align="center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="70px" alt="ANDROID icon"/>
-        <sub>
-            <pre>ANDROID</pre>
-        </sub>
-      </td>
-    <td align="center">
-         <img src="https://user-images.githubusercontent.com/106397008/216715256-b1e33fa3-1ca4-47e2-b1fc-34f802fa4c90.SVG" width="55px" alt="IOS icon"/>
-        <sub>
-            <pre>IOS</pre>
-        </sub>
-      </td>
-   </tr>
-    </table>
     <h3 align="center"> &ensp; <i> </i></h3>
     <table align="center">
       <tr>
         <td align="center">
-            <img src="https://skillicons.dev/icons?i=dart" width="80px" alt="DART icon" />
+            <img src="https://skillicons.dev/icons?i=java" width="70px" alt="JAVA icon" />
             <sub>
-                <pre> DART </pre>
+                <pre> JAVA </pre>
+            </sub>
+        </td>
+                <td align="center">
+            <img src="https://skillicons.dev/icons?i=spring" width="70px" alt="SPRING icon" />
+            <sub>
+                <pre> SPRING </pre>
             </sub>
         </td>
         <td align="center">
-        <img src="https://skillicons.dev/icons?i=flutter" width="80px" alt="FLUTTER icon" />
+        <img src="https://skillicons.dev/icons?i=flutter" width="70px" alt="FLUTTER icon" />
         <sub>
             <pre> FLUTTER </pre>
         </sub>
         </td>
       </tr>
     </table>
+    <br><br>
+       <div align="center">
+    <img align="center" width="300px" alt="quote" src="https://user-images.githubusercontent.com/106397008/206876189-e0da8e18-0868-49c2-ad17-b14176ad72f9.jpg"/>   
+  <div>
+  <br><br>
     <h3 align="center"> &ensp; <i>DATA BASE</i></h3>
     <table align="center" >
       <tr>
         <td align="center">
-            <img src="https://skillicons.dev/icons?i=firebase" width="80px" alt="FIREBASE icon" />
+            <img src="https://skillicons.dev/icons?i=firebase" width="70px" alt="FIREBASE icon" />
             <sub>
                 <pre> FIREBASE </pre>
             </sub>
         </td>
         <td align="center">
-            <img src="https://skillicons.dev/icons?i=sqlite" width="75px" alt="SQLITE icon" />
+            <img src="https://skillicons.dev/icons?i=sqlite" width="70px" alt="SQLITE icon" />
             <sub>
                 <pre> SQLITE </pre>
+            </sub>
+        </td>
+                <td align="center">
+            <img src="https://skillicons.dev/icons?i=mysql" width="70px" alt="MYSQL icon" />
+            <sub>
+                <pre> MYSQL </pre>
             </sub>
         </td>
       </tr>
       </table>
       </div>
       <br>
-      
-   <div align="center">
-    <img align="center" width="300px" alt="quote" src="https://user-images.githubusercontent.com/106397008/206876189-e0da8e18-0868-49c2-ad17-b14176ad72f9.jpg"/>   
-  <div>
-  <br><br><br>
   
-<h2 align="center">
-<details open>
-<summary>📈 &ensp; <i>A c t i v i d a d e s </i></summary>
+  <h1 align="center">📈 &ensp; <i> A c t i v i d a d e s </i></h1>
 <br>
 <div align="center">
     <img 
@@ -109,8 +100,7 @@
 </div>
 </details>
   
-<br/><br/><br/>
-
+<br/><br/>
 <h1 align="center">📩 &ensp; <i>C o n t a c t o </i></h1>
   <br>
 <p align="center">
@@ -121,7 +111,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN">
   </a>
   
-  <a href="https://wa.me/5571988078287" alt="WhatsApp" target="_blank">
+  <a href="https://wa.me/5571996710650" alt="WhatsApp" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WHATSAPP">
   </a>
   
