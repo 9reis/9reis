@@ -43,27 +43,11 @@
             <pre>IOS</pre>
         </sub>
       </td>
-    <!-- 
-    <td align="center">
-        <img src="https://skillicons.dev/icons?i=js" width="70px" alt="JAVA SCRIPT icon"/>
-        <sub>
-            <pre>JAVA SCRIPT </pre>
-        </sub>
-      </td>
-    -->
    </tr>
     </table>
     <h3 align="center"> &ensp; <i> </i></h3>
     <table align="center">
       <tr>
-        <!--
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=java" width="80px" alt="JAVA icon" background="white" />
-          <sub>
-            <pre> JAVA </pre>
-          </sub>
-        </td>
-        -->
         <td align="center">
             <img src="https://skillicons.dev/icons?i=dart" width="80px" alt="DART icon" />
             <sub>
@@ -76,27 +60,11 @@
             <pre> FLUTTER </pre>
         </sub>
         </td>
-        <!--
-        <td align="center">
-            <img src="https://skillicons.dev/icons?i=spring" width="80px" alt="SPRING icon" />
-            <sub>
-                <pre> SPRING </pre>
-            </sub>
-        </td>
-        -->
       </tr>
     </table>
     <h3 align="center"> &ensp; <i>DATA BASE</i></h3>
     <table align="center" >
       <tr>
-        <!--
-        <td align="center">
-            <img src="https://skillicons.dev/icons?i=mysql" width="80px" alt="MYSQL icon" />
-            <sub>
-                <pre> MySQL </pre>
-            </sub>
-        </td>
-        -->
         <td align="center">
             <img src="https://skillicons.dev/icons?i=firebase" width="80px" alt="FIREBASE icon" />
             <sub>
@@ -109,16 +77,8 @@
                 <pre> SQLITE </pre>
             </sub>
         </td>
-        <!--
-        <td align="center">
-            <img src="https://skillicons.dev/icons?i=postgres" width="80px" alt="POSTGRESS icon" />
-            <sub>
-                <pre> POSTGRESS </pre>
-            </sub>
-         -->
-        </td>
       </tr>
-    </table>
+      </table>
       </div>
       <br>
       
@@ -127,33 +87,36 @@
   <div>
   <br><br><br>
   
-
-
 <h2 align="center">
 <details open>
 <summary>📈 &ensp; <i>A c t i v i d a d e s </i></summary>
 <br>
-<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=9reis&theme=tokyo-night&hide_border=true">
-<br><br>
-<img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9reis&langs_count=8&theme=tokyonight&hide_border=true">
-<div align="right">
-<img height="203px" src="https://github-readme-stats.vercel.app/api?username=9reis&show_icons=true&custom_title=9Reis%20Github%20Stats&theme=tokyonight&hide_border=true">
-<img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=9reis&theme=tokyonight&hide_border=true">
+<div align="center">
+    <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=9reis&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
+  />
+  
+  <img 
+      align="center" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=9reis&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+  />
 </div>
 </details>
-<br><br><br>
   
- ## <h1 align="center">📩 &ensp; <i>C o n t a c t o </i></h1>
+<br/><br/><br/>
+
+<h1 align="center">📩 &ensp; <i>C o n t a c t o </i></h1>
   <br>
 <p align="center">
   <a href="https://www.canva.com/design/DAFIjz6q9ng/EZi4cKak37uGvdmP-aUFpw/edit?utm_content=DAFIjz6q9ng&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
     <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume">
   </a>
-  <!--
-  <a href="mailto:lucasreis_cod@hotmail.com" alt="Gmail" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL">
-  </a>
-  --> 
   <a href="https://www.linkedin.com/in/lucas-reis-b67558162/" alt="Linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN">
   </a>
@@ -166,7 +129,6 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram">
   </a>
 </p> 
-<br><br>
 
 
 
