@@ -126,38 +126,8 @@
     <img align="center" width="300px" alt="quote" src="https://user-images.githubusercontent.com/106397008/206876189-e0da8e18-0868-49c2-ad17-b14176ad72f9.jpg"/>   
   <div>
   <br><br><br>
+  
 
-  <div align="center">
-    <img align="center" width="280px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>   
-  <div>
-  <br><br><br>
-    
-<h1 align="center">🗃️ &ensp; <i>P r o y e c t o s</i></h1>
-    <br><br>
-    <div align="center">
-      <a href="https://github.com/9reis/plant_app" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=plant_app&theme=aura_dark&hide_border=true">
-      </a>
-      <a href="https://github.com/9reis/loja_ii__flutter" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=loja_ii__flutter&theme=aura_dark&hide_border=true">
-      </a>
-      <br><br>
-      <a href="https://github.com/9reis/receitas__flutter" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=receitas__flutter&theme=aura_dark&hide_border=true">
-      </a>
-      <a href="https://github.com/9reis/despesas_pessoais__flutter" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=despesas_pessoais__flutter&theme=aura_dark&hide_border=true">
-      </a>
-      <br><br>
-      <a href="https://github.com/9reis/recipe_detail_screen" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=recipe_detail_screen&theme=aura_dark&hide_border=true">
-      </a>
-      <a href="https://github.com/9reis/campo_minado__flutter" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=9reis&repo=campo_minado__flutter&theme=aura_dark&hide_border=true">
-      </a>
-      <br><br>
-  </div>
-<br><br><br><br>
 
 <h2 align="center">
 <details open>
